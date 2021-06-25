@@ -1,6 +1,6 @@
 ![SoulHarsh007](header.png)
 
-# Hello, Folks! <img src="https://raw.githubusercontent.com/SoulHarsh007/SoulHarsh007/main/wave.gif" width="30px">
+# Hello, Folks! <img src="wave.gif" width="30px">
 
 My name is Harsh Peshwani and I'm a software developer/DevOps engineer.
 
